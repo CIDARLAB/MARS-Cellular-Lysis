@@ -1,0 +1,581 @@
+{
+  "name": "My Other Device",
+  "params": {
+    "width": 135000,
+    "height": 85000
+  },
+  "layers": [
+    {
+      "name": "flow",
+      "color": "indigo",
+      "params": {
+        "z_offset": 0,
+        "flip": false
+      },
+      "features": {
+        "7d4dce00-4f92-11e7-b516-0963e7d642b6": {
+          "id": "7d4dce00-4f92-11e7-b516-0963e7d642b6",
+          "name": "New Feature",
+          "type": "Channel",
+          "set": "Basic",
+          "params": {
+            "start": [
+              0,
+              0
+            ],
+            "end": [
+              135000,
+              0
+            ],
+            "channelWidth": 800,
+            "height": 100
+          }
+        },
+        "802dbc70-4f92-11e7-b516-0963e7d642b6": {
+          "id": "802dbc70-4f92-11e7-b516-0963e7d642b6",
+          "name": "New Feature",
+          "type": "Channel",
+          "set": "Basic",
+          "params": {
+            "start": [
+              135000,
+              0
+            ],
+            "end": [
+              135000,
+              85000
+            ],
+            "channelWidth": 800,
+            "height": 100
+          }
+        },
+        "84122290-4f92-11e7-b516-0963e7d642b6": {
+          "id": "84122290-4f92-11e7-b516-0963e7d642b6",
+          "name": "New Feature",
+          "type": "Channel",
+          "set": "Basic",
+          "params": {
+            "start": [
+              135000,
+              85000
+            ],
+            "end": [
+              0,
+              85000
+            ],
+            "channelWidth": 800,
+            "height": 100
+          }
+        },
+        "8791ac60-4f92-11e7-b516-0963e7d642b6": {
+          "id": "8791ac60-4f92-11e7-b516-0963e7d642b6",
+          "name": "New Feature",
+          "type": "Channel",
+          "set": "Basic",
+          "params": {
+            "start": [
+              0,
+              85000
+            ],
+            "end": [
+              0,
+              0
+            ],
+            "channelWidth": 800,
+            "height": 100
+          }
+        },
+        "d0cace70-6bee-11e7-abf9-c3005c8c9ba5": {
+          "id": "d0cace70-6bee-11e7-abf9-c3005c8c9ba5",
+          "name": "New Feature",
+          "type": "Port",
+          "set": "Basic",
+          "params": {
+            "position": [
+              30000,
+              20000
+            ],
+            "portRadius": 2020,
+            "height": 1100
+          }
+        },
+        "d31581c0-6bee-11e7-abf9-c3005c8c9ba5": {
+          "id": "d31581c0-6bee-11e7-abf9-c3005c8c9ba5",
+          "name": "New Feature",
+          "type": "Port",
+          "set": "Basic",
+          "params": {
+            "position": [
+              30000,
+              40000
+            ],
+            "portRadius": 2020,
+            "height": 1100
+          }
+        },
+        "d4ab15e0-6bee-11e7-abf9-c3005c8c9ba5": {
+          "id": "d4ab15e0-6bee-11e7-abf9-c3005c8c9ba5",
+          "name": "New Feature",
+          "type": "Channel",
+          "set": "Basic",
+          "params": {
+            "start": [
+              30000,
+              20000
+            ],
+            "end": [
+              30000,
+              40000
+            ],
+            "channelWidth": 400,
+            "height": 100
+          }
+        },
+        "d907b940-6bee-11e7-abf9-c3005c8c9ba5": {
+          "id": "d907b940-6bee-11e7-abf9-c3005c8c9ba5",
+          "name": "New Feature",
+          "type": "Channel",
+          "set": "Basic",
+          "params": {
+            "start": [
+              30000,
+              30000
+            ],
+            "end": [
+              40000,
+              30000
+            ],
+            "channelWidth": 400,
+            "height": 100
+          }
+        },
+        "ea37e690-6bee-11e7-abf9-c3005c8c9ba5": {
+          "id": "ea37e690-6bee-11e7-abf9-c3005c8c9ba5",
+          "name": "New Feature",
+          "type": "Mixer",
+          "set": "Basic",
+          "params": {
+            "position": [
+              40000,
+              28800
+            ],
+            "bendSpacing": 1230,
+            "numberOfBends": 5,
+            "channelWidth": 400,
+            "bendLength": 2460,
+            "orientation": "H",
+            "height": 100
+          }
+        },
+        "ef6fcec0-6bee-11e7-abf9-c3005c8c9ba5": {
+          "id": "ef6fcec0-6bee-11e7-abf9-c3005c8c9ba5",
+          "name": "New Feature",
+          "type": "Channel",
+          "set": "Basic",
+          "params": {
+            "start": [
+              56300,
+              30400
+            ],
+            "end": [
+              56300,
+              30000
+            ],
+            "channelWidth": 400,
+            "height": 100
+          }
+        },
+        "f68836c0-6bee-11e7-abf9-c3005c8c9ba5": {
+          "id": "f68836c0-6bee-11e7-abf9-c3005c8c9ba5",
+          "name": "New Feature",
+          "type": "Channel",
+          "set": "Basic",
+          "params": {
+            "start": [
+              56300,
+              30000
+            ],
+            "end": [
+              65100,
+              30000
+            ],
+            "channelWidth": 400,
+            "height": 100
+          }
+        },
+        "fb3c9710-6bee-11e7-abf9-c3005c8c9ba5": {
+          "id": "fb3c9710-6bee-11e7-abf9-c3005c8c9ba5",
+          "name": "New Feature",
+          "type": "Channel",
+          "set": "Basic",
+          "params": {
+            "start": [
+              65000,
+              30000
+            ],
+            "end": [
+              70000,
+              30000
+            ],
+            "channelWidth": 400,
+            "height": 100
+          }
+        },
+        "097ecc30-6bef-11e7-abf9-c3005c8c9ba5": {
+          "id": "097ecc30-6bef-11e7-abf9-c3005c8c9ba5",
+          "name": "New Feature",
+          "type": "Channel",
+          "set": "Basic",
+          "params": {
+            "start": [
+              70000,
+              30000
+            ],
+            "end": [
+              74000,
+              30000
+            ],
+            "channelWidth": 400,
+            "height": 100
+          }
+        },
+        "0daa2660-6bef-11e7-abf9-c3005c8c9ba5": {
+          "id": "0daa2660-6bef-11e7-abf9-c3005c8c9ba5",
+          "name": "New Feature",
+          "type": "Port",
+          "set": "Basic",
+          "params": {
+            "position": [
+              75000,
+              30000
+            ],
+            "portRadius": 2020,
+            "height": 1100
+          }
+        },
+        "12be59f0-6bef-11e7-abf9-c3005c8c9ba5": {
+          "id": "12be59f0-6bef-11e7-abf9-c3005c8c9ba5",
+          "name": "New Feature",
+          "type": "Channel",
+          "set": "Basic",
+          "params": {
+            "start": [
+              65000,
+              30000
+            ],
+            "end": [
+              65000,
+              40000
+            ],
+            "channelWidth": 400,
+            "height": 100
+          }
+        },
+        "849a4cf0-6bef-11e7-abf9-c3005c8c9ba5": {
+          "id": "849a4cf0-6bef-11e7-abf9-c3005c8c9ba5",
+          "name": "New Feature",
+          "type": "Mixer",
+          "set": "Basic",
+          "params": {
+            "position": [
+              62100,
+              40000
+            ],
+            "bendSpacing": 1230,
+            "numberOfBends": 5,
+            "channelWidth": 400,
+            "bendLength": 5000,
+            "orientation": "V",
+            "height": 100
+          }
+        },
+        "89204a40-6bef-11e7-abf9-c3005c8c9ba5": {
+          "id": "89204a40-6bef-11e7-abf9-c3005c8c9ba5",
+          "name": "New Feature",
+          "type": "Channel",
+          "set": "Basic",
+          "params": {
+            "start": [
+              64600,
+              56300
+            ],
+            "end": [
+              65000,
+              56300
+            ],
+            "channelWidth": 400,
+            "height": 100
+          }
+        },
+        "a5825f70-6bef-11e7-abf9-c3005c8c9ba5": {
+          "id": "a5825f70-6bef-11e7-abf9-c3005c8c9ba5",
+          "name": "New Feature",
+          "type": "Channel",
+          "set": "Basic",
+          "params": {
+            "start": [
+              65000,
+              30000
+            ],
+            "end": [
+              65000,
+              20000
+            ],
+            "channelWidth": 400,
+            "height": 100
+          }
+        },
+        "ac2d1180-6bef-11e7-abf9-c3005c8c9ba5": {
+          "id": "ac2d1180-6bef-11e7-abf9-c3005c8c9ba5",
+          "name": "New Feature",
+          "type": "Port",
+          "set": "Basic",
+          "params": {
+            "position": [
+              65000,
+              20000
+            ],
+            "portRadius": 2020,
+            "height": 1100
+          }
+        },
+        "755f7a00-7160-11e7-8719-65d5603830d5": {
+          "id": "755f7a00-7160-11e7-8719-65d5603830d5",
+          "name": "New Feature",
+          "type": "Channel",
+          "set": "Basic",
+          "params": {
+            "start": [
+              64900,
+              56300
+            ],
+            "end": [
+              72000,
+              56300
+            ],
+            "channelWidth": 400,
+            "height": 100
+          }
+        },
+        "78b7f3d0-7160-11e7-8719-65d5603830d5": {
+          "id": "78b7f3d0-7160-11e7-8719-65d5603830d5",
+          "name": "New Feature",
+          "type": "Channel",
+          "set": "Basic",
+          "params": {
+            "start": [
+              72000,
+              56300
+            ],
+            "end": [
+              79000,
+              56300
+            ],
+            "channelWidth": 400,
+            "height": 100
+          }
+        },
+        "81b08d80-7160-11e7-8719-65d5603830d5": {
+          "id": "81b08d80-7160-11e7-8719-65d5603830d5",
+          "name": "New Feature",
+          "type": "Channel",
+          "set": "Basic",
+          "params": {
+            "start": [
+              79000,
+              56300
+            ],
+            "end": [
+              85000,
+              56300
+            ],
+            "channelWidth": 400,
+            "height": 100
+          }
+        },
+        "b233fc80-7160-11e7-8719-65d5603830d5": {
+          "id": "b233fc80-7160-11e7-8719-65d5603830d5",
+          "name": "New Feature",
+          "type": "DiamondReactionChamber",
+          "set": "Basic",
+          "params": {
+            "position": [
+              90000,
+              56300
+            ],
+            "orientation": "H",
+            "channelWidth": 400,
+            "length": 10000,
+            "width": 2500,
+            "height": 100
+          }
+        },
+        "40b559d0-7162-11e7-8719-65d5603830d5": {
+          "id": "40b559d0-7162-11e7-8719-65d5603830d5",
+          "name": "New Feature",
+          "type": "Channel",
+          "set": "Basic",
+          "params": {
+            "start": [
+              94900,
+              56300
+            ],
+            "end": [
+              105900,
+              56300
+            ],
+            "channelWidth": 400,
+            "height": 100
+          }
+        },
+        "4503a550-7162-11e7-8719-65d5603830d5": {
+          "id": "4503a550-7162-11e7-8719-65d5603830d5",
+          "name": "New Feature",
+          "type": "Channel",
+          "set": "Basic",
+          "params": {
+            "start": [
+              105900,
+              56300
+            ],
+            "end": [
+              112000,
+              56300
+            ],
+            "channelWidth": 400,
+            "height": 100
+          }
+        },
+        "47b6b760-7162-11e7-8719-65d5603830d5": {
+          "id": "47b6b760-7162-11e7-8719-65d5603830d5",
+          "name": "New Feature",
+          "type": "Channel",
+          "set": "Basic",
+          "params": {
+            "start": [
+              112000,
+              56300
+            ],
+            "end": [
+              117000,
+              56300
+            ],
+            "channelWidth": 400,
+            "height": 100
+          }
+        },
+        "5e955c70-7162-11e7-8719-65d5603830d5": {
+          "id": "5e955c70-7162-11e7-8719-65d5603830d5",
+          "name": "New Feature",
+          "type": "Port",
+          "set": "Basic",
+          "params": {
+            "position": [
+              119000,
+              56400
+            ],
+            "portRadius": 2020,
+            "height": 1100
+          }
+        }
+      }
+    },
+    {
+      "name": "control",
+      "color": "red",
+      "params": {
+        "z_offset": 1200,
+        "flip": true
+      },
+      "features": {
+        "a937dec0-4f92-11e7-b516-0963e7d642b6": {
+          "id": "a937dec0-4f92-11e7-b516-0963e7d642b6",
+          "name": "New Feature",
+          "type": "Channel",
+          "set": "Basic",
+          "params": {
+            "start": [
+              0,
+              0
+            ],
+            "end": [
+              0,
+              85000
+            ],
+            "channelWidth": 800,
+            "height": 100
+          }
+        },
+        "ab87e940-4f92-11e7-b516-0963e7d642b6": {
+          "id": "ab87e940-4f92-11e7-b516-0963e7d642b6",
+          "name": "New Feature",
+          "type": "Channel",
+          "set": "Basic",
+          "params": {
+            "start": [
+              0,
+              85000
+            ],
+            "end": [
+              135000,
+              85000
+            ],
+            "channelWidth": 800,
+            "height": 100
+          }
+        },
+        "ad94f750-4f92-11e7-b516-0963e7d642b6": {
+          "id": "ad94f750-4f92-11e7-b516-0963e7d642b6",
+          "name": "New Feature",
+          "type": "Channel",
+          "set": "Basic",
+          "params": {
+            "start": [
+              135000,
+              85000
+            ],
+            "end": [
+              135000,
+              0
+            ],
+            "channelWidth": 800,
+            "height": 100
+          }
+        },
+        "af694220-4f92-11e7-b516-0963e7d642b6": {
+          "id": "af694220-4f92-11e7-b516-0963e7d642b6",
+          "name": "New Feature",
+          "type": "Channel",
+          "set": "Basic",
+          "params": {
+            "start": [
+              135000,
+              0
+            ],
+            "end": [
+              0,
+              0
+            ],
+            "channelWidth": 800,
+            "height": 100
+          }
+        },
+        "e373ea70-7170-11e7-8719-65d5603830d5": {
+          "id": "e373ea70-7170-11e7-8719-65d5603830d5",
+          "name": "New Feature",
+          "type": "Port",
+          "set": "Basic",
+          "params": {
+            "position": [
+              90000,
+              56400
+            ],
+            "portRadius": 10000,
+            "height": 1100
+          }
+        }
+      }
+    }
+  ],
+  "groups": []
+}

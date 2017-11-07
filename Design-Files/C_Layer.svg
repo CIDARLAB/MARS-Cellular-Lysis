@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="135.8mm"
+   height="85.8mm"
+   viewBox="0 0 135800 85800"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="C_Layer.svg">
+  <metadata
+     id="metadata25">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview23"
+     showgrid="false"
+     inkscape:zoom="0.68581245"
+     inkscape:cx="240.59056"
+     inkscape:cy="152.00788"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
+  <defs
+     id="defs4">
+    <radialGradient
+       cx="90000"
+       cy="56400"
+       r="10000"
+       gradientUnits="userSpaceOnUse"
+       id="color-1">
+      <stop
+         offset="1"
+         stop-color="#ef5350"
+         id="stop7" />
+      <stop
+         offset="1"
+         stop-color="#b71c1c"
+         id="stop9" />
+    </radialGradient>
+  </defs>
+  <g
+     fill="none"
+     fill-rule="nonzero"
+     stroke="none"
+     stroke-width="none"
+     stroke-linecap="butt"
+     stroke-linejoin="miter"
+     stroke-miterlimit="10"
+     stroke-dasharray=""
+     stroke-dashoffset="0"
+     font-family="none"
+     font-weight="none"
+     font-size="none"
+     text-anchor="none"
+     style="mix-blend-mode: normal"
+     id="g11">
+    <path
+       d="M80000,56400c0,-5522.8475 4477.1525,-10000 10000,-10000c5522.8475,0 10000,4477.1525 10000,10000c0,5522.8475 -4477.1525,10000 -10000,10000c-5522.8475,0 -10000,-4477.1525 -10000,-10000z"
+       fill="url(#color-1)"
+       stroke-width="1"
+       id="path21" />
+  </g>
+</svg>
